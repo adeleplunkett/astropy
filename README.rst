@@ -1,5 +1,5 @@
 =======
-Astropy
+Astropy -- adele's change
 =======
 
 .. image:: https://pypip.in/v/astropy/badge.png
